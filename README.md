@@ -14,4 +14,4 @@ O projeto e um clone da netflix, usei um api externa do https://www.themoviedb.o
 ###REACT
 
 # IMAGEM DO PROJETO
-<img width="1000px" src="banner.png" alt=""/>
+<img  width="1000px" src="banner.png" alt=""/>
