@@ -7,11 +7,11 @@ Caso queira abrir o projeto no terminal do PC, irá precisar té o (NODE.JS e YA
 O projeto e um clone da netflix, usei um api externa do https://www.themoviedb.org/ para extrair os dados
 
 # PRINCIPAIS TECNOLOGIAS USADAS
-###HTML
-###CSS
-###SASS
-###JAVASCRIPT
-###REACT
+### HTML
+### CSS
+### SASS
+### JAVASCRIPT
+### REACT
 
 # IMAGEM DO PROJETO
 <img  width="1000px" src="banner.png" alt=""/>
